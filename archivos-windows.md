@@ -1,4 +1,4 @@
-# Archivos y directorio en Windows
+# Archivos y directorios en Windows
 
 Bla blab l a sfklvnsvre
 
